@@ -1,7 +1,7 @@
 # Jarkom-Modul-5-I09-2023
 
-
-
+<h1>Topology</h1>
+<img src="https://media.discordapp.net/attachments/1153305482438660178/1186867511241736192/image.png?ex=6594cf81&is=65825a81&hm=4f40b411663857b1f865ed1eb3e5edb4db57b0467738c5eb9d7f94624a70aaaa&=&format=webp&quality=lossless&width=1129&height=922">
 
 <h1>VLSM</h1>
 
